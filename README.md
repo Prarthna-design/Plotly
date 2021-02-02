@@ -23,3 +23,5 @@ Dash board is designed to be interactive where user can choose any ID and all in
 The Gauge Chart was created to plot the weekly washing frequency of the individual.
 
 The Guge Chart was modified to account for the values ranging from 0 through 9.
+
+Guage Chart also updates whenever a new sample is selected. The needle moves as the frequency changes in data sample.
