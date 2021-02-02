@@ -8,7 +8,7 @@ In this assignment Plotly was used to create an interactive Dash board!
 
 The D3 library used to read into 'sample.json'.
 
-Bar Graph was created using 'sample_values' as values, 'otu_ids' as labels and 'otu_labels" as hovertext for the chart."
+Bar Chart was created using 'sample_values' as values, 'otu_ids' as labels and 'otu_labels" as hovertext for the chart."
 
-
+Bubble Chart was created using 'otu_ids' for the x values, 'sample_values' for the y values and 'sample_values' as a marker size.
 
