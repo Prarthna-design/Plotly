@@ -21,3 +21,5 @@ Using Javascript code the  sample metadata was displayed on the Dashboard.
 Dash board is designed to be interactive where user can choose any ID and all information for that ID updates on all charts and tables on the Dash Board.
 
 The Gauge Chart was created to plot the weekly washing frequency of the individual.
+
+The Guge Chart was modified to account for the values ranging from 0 through 9.
