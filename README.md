@@ -16,5 +16,6 @@ For Bubble Chart 'otu_ids' was used for the marker colors.
 
 Again in  Bubble Chart 'otu_labels' was used for the text values.
 
+Using Javascript code the  sample metadata was displayed on the Dashboard.
 
 
