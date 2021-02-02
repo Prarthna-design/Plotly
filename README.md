@@ -14,3 +14,7 @@ Bubble Chart was created using 'otu_ids' for the x values, 'sample_values' for t
 
 For Bubble Chart 'otu_ids' was used for the marker colors.
 
+Again in  Bubble Chart 'otu_labels' was used for the text values.
+
+
+
