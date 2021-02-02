@@ -12,3 +12,5 @@ Bar Chart was created using 'sample_values' as values, 'otu_ids' as labels and '
 
 Bubble Chart was created using 'otu_ids' for the x values, 'sample_values' for the y values and 'sample_values' as a marker size.
 
+For Bubble Chart 'otu_ids' was used for the marker colors.
+
